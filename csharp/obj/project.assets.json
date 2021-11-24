@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shrey\\Desktop\\Competitive_Coding\\csharp\\csharp.csproj",
+      "projectUniqueName": "D:\\Coding\\Competitive-Coding\\csharp\\csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "C:\\Users\\shrey\\Desktop\\Competitive_Coding\\csharp\\csharp.csproj",
+      "projectPath": "D:\\Coding\\Competitive-Coding\\csharp\\csharp.csproj",
       "packagesPath": "C:\\Users\\shrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shrey\\Desktop\\Competitive_Coding\\csharp\\obj\\",
+      "outputPath": "D:\\Coding\\Competitive-Coding\\csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shrey\\AppData\\Roaming\\NuGet\\NuGet.Config",

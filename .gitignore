@@ -1,0 +1,10 @@
+
+.vscode/tasks.json
+.vscode/launch.json
+csharp/.vs/csharp/DesignTimeBuild/.dtbcache.v2
+csharp/.vs/csharp/v17/.futdcache.v1
+*.v2
+*.v1
+csharp/obj/project.assets.json
+csharp/obj/Debug/net6.0/csharp.csproj.FileListAbsolute.txt
+csharp/obj/csharp.csproj.nuget.dgspec.json
