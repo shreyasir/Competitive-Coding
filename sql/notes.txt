@@ -1,2 +1,3 @@
 Interview Questions on SQL
 https://www.mygreatlearning.com/blog/sql-interview-questions/#sql-interview-preparation
+https://www.interviewbit.com/sql-interview-questions/
