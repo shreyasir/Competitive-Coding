@@ -1,0 +1,3 @@
+Command to run ts file
+1. tsc <fileName.ts> -> this will generate js file
+2. node <fileName.js> -> this will execute js file
