@@ -17,3 +17,4 @@ csharp/obj/Release/net6.0/csharp.AssemblyInfo.cs
 csharp/obj/Release/net6.0/csharp.GlobalUsings.g.cs
 csharp/obj/Release/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
 csharp/.vs/csharp/v17/.futdcache.v1
+.vscode/settings.json
