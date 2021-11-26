@@ -9,18 +9,15 @@
 1. String Reversal - typesciprt, C#, golang, python
 2. Palindromes - typescript
 
+## CSharp/.NET
+[List of  Interview Questions and Learning topic on .net, c#, design patterns, OOPs](/csharp/README.md)
 
 ## SQL Hacker Rank
 
 ## Project Euler
 
-## Important Links
-
 ### OAuth
 
-1.<https://oauth.net/articles/authentication/>
-2.<https://developers.google.com/identity/protocols/oauth2>
+1.<https://oauth.net/articles/authentication/><br/>
+2.<https://developers.google.com/identity/protocols/oauth2><br/>
 3.<https://auth0.com>
-
-## CSharp/.NET
-[List of  Interview Questions and Learning topic on .net, c#, design patterns, OOPs](/csharp/README.md)
