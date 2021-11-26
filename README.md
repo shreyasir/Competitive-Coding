@@ -23,4 +23,4 @@
 3.<https://auth0.com>
 
 ## CSharp/.NET
-[a relative link](/csharp/README.MD)
+[a relative link](/blob/main/csharp/README.mdD)
