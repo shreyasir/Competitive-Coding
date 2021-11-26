@@ -23,4 +23,4 @@
 3.<https://auth0.com>
 
 ## CSharp/.NET
-[a relative link](/blob/main/csharp/README.mdD)
+[List of  Interview Questions and Learning topic on .net, c#, design patterns, OOPs](/csharp/README.mdD)
