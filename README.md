@@ -18,6 +18,6 @@
 
 ### OAuth
 
-1.<https://oauth.net/articles/authentication/><br/>
-2.<https://developers.google.com/identity/protocols/oauth2><br/>
+1.<https://oauth.net/articles/authentication/>  
+2.<https://developers.google.com/identity/protocols/oauth2>  
 3.<https://auth0.com>
