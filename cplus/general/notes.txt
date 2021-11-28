@@ -1,0 +1,2 @@
+& -> actual value
+* -> memory address
