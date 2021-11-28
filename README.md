@@ -15,8 +15,8 @@
 
 ## Docker & k8s
 
-[Docker commands](/docker%20&%20k8/docker.md)
-[K8s Commands](docker%20&%20k8/k8s.md)
+- [Docker commands](/docker%20&%20k8/docker.md)
+- [K8s Commands](docker%20&%20k8/k8s.md)
 
 ## SQL Hacker Rank
 
