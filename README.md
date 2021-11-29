@@ -4,10 +4,19 @@
 
 1. Two Sum - <https://leetcode.com/problems/two-sum> - C#, golang, python
 
-## Udemy DS & Algo - <https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure>
+## Data Structure and Algorithm
 
-1. String Reversal - typesciprt, C#, golang, python
-2. Palindromes - typescript
+__Data Structures in C/C++ <https://www.udemy.com/course/datastructurescncpp/>__
+__Algorithms in C/C++ <https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O>__
+__Problem Solving Techniques <https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure>__
+
+1. String Reversal
+   1. typescript
+   2. C#
+   3. golang
+   4. python
+2. Palindromes
+   1. typescript
 
 ## CSharp/.NET
 
