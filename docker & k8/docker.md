@@ -6,6 +6,7 @@
   - [Problem 1: DNS Round Robin Test](#problem-1-dns-round-robin-test)
     - [Image Commands](#image-commands)
   - [Problem 2](#problem-2)
+    - [Volume Commands](#volume-commands)
     - [Building DockerFiles](#building-dockerfiles)
     - [Notes](#notes)
     - [Important Links](#important-links)
@@ -98,6 +99,17 @@ __Solutioni__
 
 ---
 
+### Volume Commands
+
+1. Get all  Volumes
+   1. `docker volume ls`
+2. Get the file location
+   1. PowerShell `${pwd}`
+   2. cmd.ext `%cd%`
+   3. linux `$(pwd)`
+3. Adding convinent name to the volume
+   1. `docker container run -d -p 3306:3306 --name db_mysql_1 -e MYSQL_RANDOM_ROOT_PASSWORD=yes -v my_sql:/var/lib/mysql mysql `
+
 ### Building DockerFiles
 
 [Reference](https://docs.docker.com/engine/reference/builder/)
@@ -109,3 +121,11 @@ Static IPs and Using IPs to talk to container is anti-pattern and should be avoi
 ### Important Links
 
 [Docker Terminology](https://github.com/moby/moby/blob/master/image/spec/v1.md)
+
+[Manage Data](https://docs.docker.com/storage/)
+
+**12 Factor** \
+[12 Factor](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.cjvkgw4b3) \
+[12 Factor App](https://12factor.net/)
+
+[Immutable Infrastructure](https://www.oreilly.com/radar/an-introduction-to-immutable-infrastructure/)
