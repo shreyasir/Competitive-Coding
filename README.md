@@ -1,5 +1,19 @@
 # Competitive-Coding
 
+## Folder Structure
+
+1. C++
+   1. [General Coding techniques](/cplus/general)
+   2. [Recursion](/cplus/recursion)
+2. CSharp
+3. docker & K8
+4. golang
+5. python
+6. sql
+7. terraform
+8. typescript
+9. aws
+
 ## LeetCode
 
 1. Two Sum - <https://leetcode.com/problems/two-sum> - C#, golang, python
