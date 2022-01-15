@@ -6,19 +6,18 @@ from typing import List
 
 def twoSum_1(nums: list[int], target: int) -> list[int]:
     for i in range(0, len(nums)):
-        for j in range(i+1, len(nums)):
-            if target == nums[i]+nums[j]:
+        for j in range(i + 1, len(nums)):
+            if target == nums[i] + nums[j]:
                 return [i, j]
-    return null
+    return 1
+
 
 # Solution 2
-
-
 def twoSum_2(nums: list[int], target: int):
     d = {}
     for i, num in enumerate(nums):
-        if target-num in d:
-            return [d[target-num], i]
+        if target - num in d:
+            return [d[target - num], i]
         d[num] = i
     return [0, 0]
 
